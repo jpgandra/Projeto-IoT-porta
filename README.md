@@ -2,7 +2,7 @@ O circuito é formado por:
 
 -ESP32;
 
--Sensor de distância ultrasônico HC-SR34;
+-Sensor de distância ultrasônico HC-SR04;
 
 -LCD 16x2(I2C);
 
