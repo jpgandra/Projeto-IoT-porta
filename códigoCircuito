@@ -5,10 +5,10 @@
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 const char* host = "api.thingspeak.com";
-const String APIkeyWrite = "GH0AY13G9FSOBNT1";
-const String APIkeyRead = "HUUEXGF3OJVSZ1IA";
+const String APIkeyWrite = "SuakeyWrite";
+const String APIkeyRead = "SuakeyRead";
 const String UltimosRESULTADOS = "1"; 
-const String IDchannel = "1742489";
+const String IDchannel = "SUAIDCHANNEL";
 String urlread ="http://api.thingspeak.com/channels/"+IDchannel+"/feeds.json?api_key="+APIkeyRead+"&results="+UltimosRESULTADOS;
 LiquidCrystal_I2C display(0x27, 16, 2);
 Servo servo;
