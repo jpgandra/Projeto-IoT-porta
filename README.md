@@ -35,7 +35,7 @@ Montagem do código do App:
 
 Programação do circuito em forma de imagem:
 
-![Captura de Tela (83)](https://user-images.githubusercontent.com/107519508/176098022-20dc8bf5-1fc6-4274-b9b0-252d58ce13c9.png)
+![Captura de Tela (83)](https://user-images.githubusercontent.com/107519508/176098867-7d170cbc-12a8-4299-b9bf-ecc677d2f28d.png)
 ![Captura de Tela (84)](https://user-images.githubusercontent.com/107519508/176098047-ba6c5081-1eb8-4217-beef-5b4ba769a838.png)
 ![Captura de Tela (85)](https://user-images.githubusercontent.com/107519508/176098050-2b710e26-b5ac-4b25-a1d9-5d9d4e738552.png)
 ![Captura de Tela (86)](https://user-images.githubusercontent.com/107519508/176098068-8da8995e-33fc-4be7-9582-69790c05c73f.png)
